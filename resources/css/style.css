@@ -12,7 +12,8 @@ h1{
 h2{
   font-weight: 300;
   font-size: 42px;
-  font color: white;
+  color: white;
+  text-align: center;
 }
 
 h3{
@@ -27,7 +28,12 @@ h3{
 p{
   color: gray;
   font-size: 21px;
+}
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #footer{
